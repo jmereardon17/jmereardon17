@@ -1,7 +1,7 @@
 # About
 
 :computer: Front-end Web Developer with a love of tech\
-:frog: Moderator for Treehouse\
+:frog: Mentor for Treehouse\
 :six_pointed_star: In the Night of Wilderness ~
 
 ## Social
@@ -14,6 +14,6 @@
 
 ---
 
-## Support my Cause
+## Support
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jmereardon17)
