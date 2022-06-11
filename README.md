@@ -1,6 +1,6 @@
 # Front-end Web Developer with a love of tech
 
-:computer: Web Developer for Key Group\
+:computer: Tech Enthusiast\
 :frog: Mentor for Treehouse\
 :six_pointed_star: In the Night of Wilderness ~
 
