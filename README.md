@@ -22,8 +22,9 @@
 
 Macbook Pro (Retina, 13-inch, Early 2015)\
 Keyboard - Razer DeathStalker V2 Pro\
-Mouse - Razer DeathAdder V3 Pro\
+Mouse - Razer DeathAdder V3 Pro
 
+---
 ## Support
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jmereardon17)
