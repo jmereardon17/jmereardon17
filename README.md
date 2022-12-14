@@ -26,7 +26,6 @@ Mouse - Razer DeathAdder V3 Pro\
 Herman Miller X Logitech G Embody\\
 
 Desk - Fully Jarvis Laminate Adjustable Desk
----
 
 ## Support
 
