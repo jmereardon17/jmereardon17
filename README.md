@@ -24,6 +24,7 @@ Macbook Pro (Retina, 13-inch, Early 2015)\
 Keyboard - Razer DeathStalker V2 Pro\
 Mouse - Razer DeathAdder V3 Pro\
 Herman Miller X Logitech G Embody\\
+
 Desk - Fully Jarvis Laminate Adjustable Desk
 ---
 
