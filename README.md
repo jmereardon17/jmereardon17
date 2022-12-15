@@ -21,7 +21,7 @@
 
 ## Workspace
 
-![Macbook Pro (Retina, 13-inch, Early 2015)](https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white)\
+[!Macbook Pro (Retina, 13-inch, Early 2015)](https://img.shields.io/badge/Apple-MacBook_Pro_2015-999999?style=for-the-badge&logo=apple&logoColor=white)\
 Keyboard - Razer DeathStalker V2 Pro\
 Mouse - Razer DeathAdder V3 Pro
 
