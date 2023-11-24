@@ -22,9 +22,6 @@
 
 ![Mac Mini M1 (512GB SSD, 16GB RAM)](https://img.shields.io/badge/Apple-Mac_Mini_M1_512GB_SSD_16GB_RAM-999999?style=for-the-badge&logo=apple&logoColor=white)\
 ![Macbook Pro (Retina, 13-inch, Early 2015)](https://img.shields.io/badge/Apple-MacBook_Pro_Retina_13_inch_Early_2015-999999?style=for-the-badge&logo=apple&logoColor=white)\
-Monitors - Zowie XL2546K 24.5 DyAc+ Asus PG279Q 27 IPS GSync\
-Keyboard - Razer DeathStalker V2 Pro\
-Mouse - Razer DeathAdder V3 Pro
 
 ## Support
 
